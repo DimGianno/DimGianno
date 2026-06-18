@@ -34,7 +34,7 @@ About Me
 - Vercel
 
 ## Projects
-### Call Center Dashboard
+### Call Center Dashboard ( [Frontend](https://github.com/DimGianno/Call-Center-Frontend) / [Backend](https://github.com/DimGianno/Call-Center-BackEnd) )
 
 A full-stack call center application with a React frontend and a Node.js/Express backend.
 
@@ -48,7 +48,7 @@ Features include:
 - REST API integration
 - Testing and CI/CD setup
 
-### Water Sort Puzzle Solver
+### Water Sort Puzzle Solver ( [Link to repository](https://github.com/DimGianno/water-sort-solver) )
 
 A puzzle-solving project focused on algorithmic thinking and problem solving.
 
