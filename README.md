@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Dimitris Giannopoulos 👋
 
+I am a Computer Engineering & Telecommunications graduate and junior full-stack developer focused on building practical web applications.
+
+I enjoy working on both frontend and backend projects, turning ideas into functional, clean, and maintainable software. I am currently improving my skills through hands-on projects using modern web technologies.
+
+About Me
+- 🎓 Computer Engineering & Telecommunications graduate
+- 💻 Interested in full-stack web development
+- ⚙️ Focused on backend APIs, frontend interfaces, and real-world project structure
+- 📚 Always learning and improving through practical development
+- 🚀 Building projects that help me become a better software engineer
 <!--
 **DimGianno/DimGianno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
